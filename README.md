@@ -8,5 +8,5 @@ Now using Artificial Networks, we need to model out the effects of the eight par
 5. Concentration of Sodium hydrogen carbonate
 6. Concentration of Sodium Sulphate
 7. Reaction Temperature
-8. Recation Time
+8. Reaction Time
    
