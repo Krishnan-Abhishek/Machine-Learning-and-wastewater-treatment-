@@ -5,4 +5,8 @@ Now using Artificial Networks, we need to model out the effects of the eight par
 2. Intial pH of the reaction solution
 3. UV and Visible radiation intensity
 4. Photocatalyst Dosage
-5. Concentration of Sodium hydrogen carbonate and Sodium Sulphate
+5. Concentration of Sodium hydrogen carbonate
+6. Concentration of Sodium Sulphate
+7. Reaction Temperature
+8. Recation Time
+   
