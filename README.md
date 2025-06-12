@@ -9,4 +9,4 @@ Now using Artificial Networks, we need to model out the effects of the eight par
 6. Concentration of Sodium Sulphate
 7. Reaction Temperature
 8. Reaction Time
-   
+Upon receving the output, one can understand to what extent the input features could be tuned so as to achieve the desired photocatalytic efficiency of the cefixime.The input features which could be tuned are the photocatalytic dosage, reaction temperature and reaction time.
